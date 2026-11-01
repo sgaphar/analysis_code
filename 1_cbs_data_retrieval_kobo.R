@@ -21,10 +21,10 @@ pacman::p_load(httr,         # Manipulate data
 
 # Specify the Kobo URL and credentials
 kobo_url <- "https://kobo.msf.org"
-username <- "msfe_jerusalem_epi"
-password <- "45Pancakes##kobo"
-form_id <- "aEheU9inSLN7XqYmWVZE8V"
-api <- "e485119d17c7a2def540665a44be18e7ca3f9704"
+username <- #xxx
+password <- #xxx
+form_id <- #xxx
+api <- #xxx
 
 
 # Define the data URL
